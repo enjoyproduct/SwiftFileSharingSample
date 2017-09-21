@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10171" systemVersion="15E65" minimumToolsVersion="Automatic">
+    <entity name="Beer" representedClassName=".Beer">
+        <attribute name="imagePath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" attributeType="String">
+            <userInfo/>
+        </attribute>
+        <attribute name="note" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rating" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <userInfo/>
+    </entity>
+    <elements>
+        <element name="Beer" positionX="261" positionY="189" width="128" height="103"/>
+    </elements>
+</model>
